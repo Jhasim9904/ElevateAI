@@ -4,6 +4,7 @@
 
 Built with **Next.js**, **TailwindCSS**, **ShadCN UI**, **PostgreSQL**, and **Gemini AI**, ElevateAI offers an all-in-one suite to help you land your dream job.
 
+
 ---
 
 ## ✨ Features
@@ -40,3 +41,4 @@ Built with **Next.js**, **TailwindCSS**, **ShadCN UI**, **PostgreSQL**, and **Ge
 
 In today’s competitive job market, professionals need more than a generic resume. **ElevateAI** provides **personalized, AI-assisted guidance** at every step — from crafting standout resumes to acing interviews and tracking skill growth.
 
+Give it a try ;) : https://elevate-ai-phi.vercel.app/
